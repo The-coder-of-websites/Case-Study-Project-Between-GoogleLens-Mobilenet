@@ -25,7 +25,7 @@ img{
 }
 
 span{
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     color: red;
 }
 
@@ -66,4 +66,14 @@ h4{
 #lens_google{
     width: 200;
     height: 200;
+}
+
+.colour{
+    color: purple;
+    
+}
+
+.conclusion{
+  
+    font-size: 20px;
 }
